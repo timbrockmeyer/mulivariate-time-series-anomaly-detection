@@ -1,0 +1,4 @@
+raw/*
+processed/*
+!raw/demo/
+!processed/demo/
