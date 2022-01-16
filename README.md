@@ -9,7 +9,7 @@ An explicit graph structure modelling the interrelations between sensors is infe
 * [pytorch==1.8.1] (https://pytorch.org/)
 * [torch-geometric==1.7.2] (https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) <br/>
 
-Additional package files for torch-geometric (python 3.7 & pytorch 1.8.1) provided in '/whl/' as they are unavailable in artifactory as of writing. <br/>
+Additional package files for torch-geometric (python 3.7 & pytorch 1.8.1) provided in '/whl/' in case they are unavailable. <br/>
 Refer to https://pytorch-geometric.com/whl/ for other versions.
 ### Install python
 Install python environment for example with conda:
