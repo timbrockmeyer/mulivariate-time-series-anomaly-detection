@@ -5,7 +5,7 @@ An explicit graph structure modelling the interrelations between sensors is infe
 ## Installation
 ### Requirements
 * Python == 3.7
-* cuda >= 10.2
+* cuda == 10.2
 * [pytorch==1.8.1] (https://pytorch.org/)
 * [torch-geometric==1.7.2] (https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) <br/>
 
